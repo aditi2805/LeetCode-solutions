@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0198-house-robber](https://github.com/aditi2805/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditi2805/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
