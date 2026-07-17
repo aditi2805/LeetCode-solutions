@@ -46,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
