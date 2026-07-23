@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditi2805/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/aditi2805/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi2805/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aditi2805/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditi2805/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0283-move-zeroes) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditi2805/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditi2805/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi2805/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
