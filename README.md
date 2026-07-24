@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditi2805/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/aditi2805/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aditi2805/LeetCode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1920-build-array-from-permutation](https://github.com/aditi2805/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditi2805/LeetCode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/aditi2805/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
