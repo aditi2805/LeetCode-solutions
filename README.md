@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aditi2805/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aditi2805/LeetCode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1920-build-array-from-permutation](https://github.com/aditi2805/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aditi2805/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aditi2805/LeetCode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/aditi2805/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1331-rank-transform-of-an-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
