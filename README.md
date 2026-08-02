@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditi2805/LeetCode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditi2805/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aditi2805/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aditi2805/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aditi2805/LeetCode-solutions/tree/master/0213-house-robber-ii) |
+| [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aditi2805/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aditi2805/LeetCode-solutions/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 | [1122-relative-sort-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
