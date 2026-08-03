@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aditi2805/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi2805/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aditi2805/LeetCode-solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/aditi2805/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/aditi2805/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0283-move-zeroes) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditi2805/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -205,4 +209,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
