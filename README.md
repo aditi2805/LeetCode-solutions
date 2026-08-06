@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditi2805/LeetCode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aditi2805/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/aditi2805/LeetCode-solutions/tree/master/0917-reverse-only-letters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/aditi2805/LeetCode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 ## Binary Search
 |  |
@@ -210,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 ## Primality Test
 |  |
