@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditi2805/LeetCode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditi2805/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aditi2805/LeetCode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1920-build-array-from-permutation](https://github.com/aditi2805/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditi2805/LeetCode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditi2805/LeetCode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3731-find-missing-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/3731-find-missing-elements) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditi2805/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -216,11 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/aditi2805/LeetCode-solutions/tree/master/2427-number-of-common-factors) |
 ## Primality Test
 |  |
