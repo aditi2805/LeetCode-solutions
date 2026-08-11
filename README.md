@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/aditi2805/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/aditi2805/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aditi2805/LeetCode-solutions/tree/master/0724-find-pivot-index) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditi2805/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
