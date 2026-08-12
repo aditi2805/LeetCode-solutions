@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/aditi2805/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/aditi2805/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aditi2805/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 | [1122-relative-sort-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1122-relative-sort-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi2805/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/aditi2805/LeetCode-solutions/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditi2805/LeetCode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
