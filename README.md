@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aditi2805/LeetCode-solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 | [1122-relative-sort-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/aditi2805/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditi2805/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aditi2805/LeetCode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/aditi2805/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditi2805/LeetCode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3731-find-missing-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/3731-find-missing-elements) |
