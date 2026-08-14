@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/aditi2805/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi2805/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aditi2805/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0204-count-primes) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditi2805/LeetCode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aditi2805/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditi2805/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditi2805/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0268-missing-number) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aditi2805/LeetCode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/aditi2805/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditi2805/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/aditi2805/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditi2805/LeetCode-solutions/tree/master/0242-valid-anagram) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditi2805/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aditi2805/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -266,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditi2805/LeetCode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
