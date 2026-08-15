@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/aditi2805/LeetCode-solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/aditi2805/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/aditi2805/LeetCode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditi2805/LeetCode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/aditi2805/LeetCode-solutions/tree/master/0917-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/aditi2805/LeetCode-solutions/tree/master/1844-replace-all-digits-with-characters) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/aditi2805/LeetCode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Search
 |  |
