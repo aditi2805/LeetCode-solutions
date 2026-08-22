@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditi2805/LeetCode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3099-harshad-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/3099-harshad-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditi2805/LeetCode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditi2805/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
