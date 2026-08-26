@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aditi2805/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/aditi2805/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aditi2805/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/aditi2805/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aditi2805/LeetCode-solutions/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/aditi2805/LeetCode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 | [1122-relative-sort-array](https://github.com/aditi2805/LeetCode-solutions/tree/master/1122-relative-sort-array) |
