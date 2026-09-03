@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aditi2805/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditi2805/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/aditi2805/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/aditi2805/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aditi2805/LeetCode-solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditi2805/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/aditi2805/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditi2805/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aditi2805/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aditi2805/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi2805/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aditi2805/LeetCode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
