@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aditi2805/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/aditi2805/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/aditi2805/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/aditi2805/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
 ## Memoization
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aditi2805/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/aditi2805/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0917-reverse-only-letters](https://github.com/aditi2805/LeetCode-solutions/tree/master/0917-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/aditi2805/LeetCode-solutions/tree/master/1844-replace-all-digits-with-characters) |
