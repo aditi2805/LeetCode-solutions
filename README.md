@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/aditi2805/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/aditi2805/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/aditi2805/LeetCode-solutions/tree/master/0877-stone-game) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditi2805/LeetCode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/aditi2805/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0917-reverse-only-letters](https://github.com/aditi2805/LeetCode-solutions/tree/master/0917-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditi2805/LeetCode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aditi2805/LeetCode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1844-replace-all-digits-with-characters](https://github.com/aditi2805/LeetCode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditi2805/LeetCode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
