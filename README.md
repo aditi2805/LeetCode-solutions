@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/aditi2805/LeetCode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditi2805/LeetCode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3110-score-of-a-string](https://github.com/aditi2805/LeetCode-solutions/tree/master/3110-score-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
