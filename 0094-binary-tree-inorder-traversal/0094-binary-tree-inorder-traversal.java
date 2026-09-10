@@ -18,17 +18,15 @@ class Solution {
         List<Integer> list = new ArrayList<>();
         inorder(root, list);
         return list;
-
     }
 
-    private void inorder(TreeNode node, List<Integer> list) {
-        if (node == null) {
+    static void inorder(TreeNode root, List<Integer> list) {
+        if (root == null) {
             return;
         }
-
-        inorder(node.left, list);
-        list.add(node.val);
-        inorder(node.right, list);
+        inorder(root.left, list);
+        list.add(root.val);
+        inorder(root.right, list);
 
     }
 }
